@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsnDeclarado" value="name:id;datatype:int,name:descricao;datatype:string,name:valor;datatype:string" />
+	<infoitem key="UD_rsFarpen" value="name:id;datatype:int,name:descricao;datatype:string,name:valor;datatype:string" />
+</info>

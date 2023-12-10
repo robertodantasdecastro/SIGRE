@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsvDeclarado" value="name:id;datatype:int,name:faixaAate;datatype:string,name:faixaAvalor;datatype:string,name:faixaBde;datatype:string,name:faixaBate;datatype:string,name:faixaBvalor;datatype:string,name:faixaCde;datatype:string,name:faixaCate;datatype:string,name:faixaCvalor;datatype:string,name:faixaDde;datatype:string,name:faixaDate;datatype:string,name:faixaDvalor;datatype:string,name:acimaDe;datatype:string,name:acrecentar;datatype:string,name:pcada;datatype:string,name:limite;datatype:string" />
+	<infoitem key="UD_rsnDeclarado" value="name:id;datatype:int,name:descricao;datatype:string,name:valor;datatype:string" />
+</info>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsNdeclarado" value="name:id;datatype:int,name:descricao;datatype:string,name:valor;datatype:string" />
+	<infoitem key="UD_rsGuias" value="name:id;datatype:int,name:id_entidade;datatype:int,name:ano;datatype:string,name:numero;datatype:int,name:emicao;datatype:date,name:vencimento;datatype:date,name:id_natuEsc;datatype:int,name:valorEmolumento;datatype:string,name:valoFarpen;datatype:string,name:valorFEPJ;datatype:string,name:valorSDT;datatype:string,name:declarado;datatype:string,name:TipoImovel;datatype:int,name:Localizacao;datatype:blob,name:caracteristicas;datatype:blob,name:id_usuario;datatype:int,name:situacaoEmolumento;datatype:int,name:dataMovEmolumento;datatype:date,name:situacaoFarpen;datatype:int,name:dataMovFarpen;datatype:date,name:situacaoSDJ;datatype:int,name:dataMovSDJ;datatype:date,name:id_outorgante;datatype:int,name:id_outorgado;datatype:int,name:obs;datatype:string,name:tipo;datatype:string" />
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="true" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="MMGuideCount" value="2" />
+	<infoitem key="MMGuide0" value="horizontal: user 420 px" />
+	<infoitem key="MMGuide1" value="vertical: user 760 px" />
+</info>

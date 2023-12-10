@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsEntidades" value="name:nome;datatype:string,name:id;datatype:int" />
+	<infoitem key="UD_rsTipoAcesso" value="name:id;datatype:int,name:tipo;datatype:string" />
+	<infoitem key="UD_rsUsuarioEdit" value="name:id;datatype:int,name:id_site;datatype:int,name:nome;datatype:string,name:CPF;datatype:string,name:telefones;datatype:string,name:endereco;datatype:string,name:cargo;datatype:string,name:senha;datatype:string,name:acesso;datatype:int,name:foto;datatype:string" />
+	<infoitem key="UD_rsEntidadeUser" value="name:nome;datatype:string,name:id;datatype:int" />
+</info>

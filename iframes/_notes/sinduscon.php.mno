@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSinduscon" value="name:id;datatype:int,name:pavimentos;datatype:string,name:baixo;datatype:string,name:normal;datatype:string,name:alto;datatype:string" />
+</info>

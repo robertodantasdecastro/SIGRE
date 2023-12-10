@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCidade" value="name:id;datatype:int,name:nome;datatype:string,name:cidade;datatype:string" />
+	<infoitem key="UD_rsEntidades" value="name:id;datatype:int,name:nome;datatype:string,name:cnpj;datatype:string,name:cpf;datatype:string,name:endereco;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:uf;datatype:string,name:cep;datatype:string,name:fone;datatype:string,name:fax;datatype:string,name:email;datatype:string,name:farpen;datatype:string,name:conta;datatype:string,name:dvCC;datatype:string,name:agencia;datatype:string,name:dvAG;datatype:string,name:convenio;datatype:string,name:convenio2;datatype:string,name:dadosBoleto;datatype:string,name:datacadastro;datatype:string,name:responsavel;datatype:string,name:tipo;datatype:string,name:id_sdt;datatype:int,name:registral;datatype:int" />
+	<infoitem key="UD_rsSDT" value="name:id;datatype:int,name:cidade;datatype:string" />
+</info>

@@ -1,0 +1,140 @@
+.FormularioCinza1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+.Formulario {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	background-color: #F3F3F3;
+}
+.Erro1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+.TituloNoticia1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #003399;
+	text-decoration: none;
+}
+.SubTitulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.LinkNoticia {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+.linkSecretarias {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+
+.LinkNoticia:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+}
+.linkSecretarias:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: underline;
+}
+.TituloNoticia2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #3F5785;
+	text-decoration: none;
+}
+.texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.LinkTexto {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #0066CC;
+	text-decoration: none;
+}
+.LinkTexto:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #0066CC;
+	text-decoration: underline;
+}
+.seta {
+	font-size: 10px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #003399;
+}.FormularioErro {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	background-color: #FFC4C7;
+}
+.TituloPagina {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #8094CA;
+	text-decoration: none;
+}
+.TituloPaginaBranco {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.TituloNoticiaLink {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #003399;
+	text-decoration: underline;
+}
+.TituloNoticiaLink:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0033CC;
+	text-decoration: none;
+	background-color: #F0F0F9;
+}
